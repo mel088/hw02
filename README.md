@@ -1,2 +1,13 @@
-# threatened_species
-threatened species graphs
+# Threatened Species
+## Threatened Species Scatter Plot
+
+The scatter plot shows the average number of endangered species in each location over the course of 15 years, from 2004 to 2019.
+As shown by the graph, there is an upward trend. This means that over time the average number of endangered species in each location is increasing on average. Here is a link to the original data source: http://data.un.org/_Docs/SYB/CSV/SYB62_313_201907_Threatened%20Species.csv.
+
+## Threatened Species Bar Graph
+
+The bar graph is similar to the scatter plot as it also shows the average number of endangered species in each location over the course of 15 years, from 2004 to 2019. This bar graph provides an even clearer representation on what is happening to threatened species. Their numbers in each location are generally increasing over time. Here is a link to the original data source: http://data.un.org/_Docs/SYB/CSV/SYB62_313_201907_Threatened%20Species.csv.
+
+My hope is that more people will protect threatened species and, as a result, my plot and graph will eventually start sloping downwards.
+
+Here is a link to this project's webpage: https://github.com/mel088/threatened_species.

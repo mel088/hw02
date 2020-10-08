@@ -13,4 +13,4 @@ As shown by the graph, there is an upward trend. This means that over time the a
  <img src="https://github.com/mel088/threatened_species/blob/main/Screen%20Shot%202020-10-07%20at%2011.44.51%20PM.png" alt="Scatter Plot"> 
 
 My hope is that more people will protect threatened species and, as a result, my plots will eventually start sloping downwards.
-Here is a link to this project's webpage: https://github.com/mel088/threatened_species.
+Here is a link to this project's webpage: https://mel088.github.io/hw02/index.html.

@@ -1,16 +1,14 @@
-# Threatened Species
-## Threatened Species Line Plot
+# Energy Production and CO2 Emissions
+## Energy Production Line Plot
 
-The line plot shows the number of endangered species in each location from 2004 to 20019. Their numbers in each location are generally increasing over time. I also plotted another line plot to show the trend of the graph. Here is a link to the original data source: http://data.un.org/_Docs/SYB/CSV/SYB62_313_201907_Threatened%20Species.csv.
+The line plots show global versus North American energy production, trade, and supply. The light blue line plot is the total global energy production over time while the dark blue line plot is the total energy production for North America over time. As you can see from the figure, North America accounts for about one quarter of global energy production. Over the years, there has been an increase in energy production. Here is a link to the original data source: http://data.un.org/_Docs/SYB/CSV/SYB62_263_201904_Production,%20Trade%20and%20Supply%20of%20Energy.csv.
 
-<img src="https://github.com/mel088/threatened_species/blob/main/Screen%20Shot%202020-10-07%20at%2011.43.59%20PM.png" alt="Line Plot">
+<img src="https://github.com/mel088/hw02/blob/main/Gobal%20vs.%20North%20America%20Energy%20Production.png" alt="Line Plot">
 
-## Threatened Species Scatter Plot
+## CO2 Emissions Bar Graph
 
-The scatter plot shows the number of endangered species in each location over the course of 15 years, from 2004 to 2019.
-As shown by the graph, there is an upward trend. This means that over time the average number of endangered species in each location is increasing on average. I used a heart symbol for the scatter plot because I love animals. Here is a link to the original data source: http://data.un.org/_Docs/SYB/CSV/SYB62_313_201907_Threatened%20Species.csv.
+The bar graph shows the total worlwide carbon dioxide emissions measured in thousand metric tons. As you can see from the figure, the amount of carbon dioxide emissions is increasing at an increasing rate. Here is a link to the original data source: http://data.un.org/_Docs/SYB/CSV/SYB60_312_Carbon%20Dioxide%20Emission%20Estimates.csv.
 
- <img src="https://github.com/mel088/threatened_species/blob/main/Screen%20Shot%202020-10-07%20at%2011.44.51%20PM.png" alt="Scatter Plot"> 
+ <img src="https://github.com/mel088/hw02/blob/main/Worldwide%20CO2%20Emissions.png" alt="Scatter Plot"> 
 
-My hope is that more people will protect threatened species and, as a result, my plots will eventually start sloping downwards.
 Here is a link to this project's webpage: https://github.com/mikeizbicki/cmc-csci040/tree/2020fall/hw_02.

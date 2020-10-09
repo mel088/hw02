@@ -1,5 +1,5 @@
 # Energy Production and CO2 Emissions
-## Energy Production Line Plot
+## Energy Production Line Plots
 
 The line plots show global versus North American energy production, trade, and supply. The light blue line plot is the total global energy production over time while the dark blue line plot is the total energy production for North America over time. As you can see from the figure, North America accounts for about one quarter of global energy production. Over the years, there has been an increase in energy production. Here is a link to the original data source: http://data.un.org/_Docs/SYB/CSV/SYB62_263_201904_Production,%20Trade%20and%20Supply%20of%20Energy.csv.
 

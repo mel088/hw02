@@ -7,7 +7,7 @@ The line plots show global versus North American energy production, trade, and s
 
 ## CO2 Emissions Bar Graph
 
-The bar graph shows the total worlwide carbon dioxide emissions measured in thousand metric tons. As you can see from the figure, the amount of carbon dioxide emissions is increasing at an increasing rate. Here is a link to the original data source: http://data.un.org/_Docs/SYB/CSV/SYB60_312_Carbon%20Dioxide%20Emission%20Estimates.csv.
+The bar graph shows the total worlwide carbon dioxide emissions measured in thousand metric tons. As you can see from the figure, the amount of carbon dioxide emissions is increasing at an increasing rate. The years that do not show a bar did not have data available. Here is a link to the original data source: http://data.un.org/_Docs/SYB/CSV/SYB60_312_Carbon%20Dioxide%20Emission%20Estimates.csv.
 
  <img src="https://github.com/mel088/hw02/blob/main/Worldwide%20CO2%20Emissions.png" alt="Scatter Plot"> 
 
